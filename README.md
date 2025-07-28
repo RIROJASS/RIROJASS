@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="IMG_0223_v3.jpg" width="160"](https://github.com/RIROJASS/RIROJASS/blob/main/IMG_0223_v3.jpg)"Raul Rojas headshot">
+  <img src="IMG_0223_v3.jpg" width="200"](https://github.com/RIROJASS/RIROJASS/blob/main/IMG_0223_v3.jpg)"Raul Rojas headshot">
 </p>
 
 <h1 align="center">Hi, I’m Raul Rojas 👋</h1>
