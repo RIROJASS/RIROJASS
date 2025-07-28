@@ -7,7 +7,7 @@
 <h1 align="center">Hi, I’m Raul Rojas 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/raul-rojas">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/raúl-rojas">LinkedIn</a> •
   <a href="mailto:raul.rojas@ufl.edu">Email</a>
 </p>
 
