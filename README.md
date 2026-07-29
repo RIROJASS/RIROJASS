@@ -12,6 +12,6 @@
 ---
 
 ### 🚀 About Me
-I’m a **junior** at the **University of Florida** with a focus on machine‑learning, AI solutions, and human-compuyter interaction. I land at the cross-roads between societal organization, NLP, and human‑centered design. When I'm not studying for my Computer Science (B.S.) and Anthropology (B.A.) degrees, I work to humanize AI while building up my company. I’m actively seeking AI/ML engineering internships for Summer 2026. Get in touch with me @ +1 [space] 305 [space] 842 [space] 8433 or @ raul [dot] rojas@ufl [dot] edu.
+I’m a **rising senior** at the **University of Florida** with a focus on machine‑learning, AI solutions, and human-compuyter interaction. I land at the cross-roads between societal organization, NLP, and human‑centered design. When I'm not studying for my Computer Science (B.S.) and Anthropology (B.A.) degrees, I work to humanize AI. Get in touch with me @ +1 [space] 305 [space] 842 [space] 8433 or @ raul [dot] rojas@ufl [dot] edu.
 
 ---
